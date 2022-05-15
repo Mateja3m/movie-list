@@ -118,6 +118,9 @@ a {
   width: 100%;
 }
 .total h3 {
-margin: auto;
-padding: 0 10px 0 10px;}
+  margin-left: 0;
+  margin-top: 10px;
+  /* padding: 0 10px 0 10px; */
+  text-align: center;
+}
 }

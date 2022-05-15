@@ -104,3 +104,14 @@ a {
   border: 2px solid red;
   border-radius: 7px;
 }
+
+@media only screen and (max-width: 768px) {
+.items-wrapper {
+  flex-direction: column;
+  margin: auto;
+}
+.single-items {
+  width: 100%;
+}
+
+}

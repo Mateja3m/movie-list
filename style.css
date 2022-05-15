@@ -100,6 +100,10 @@ a {
   margin-left: 40px;
 }
 
+.output {
+  font-weight: normal;
+}
+
 .watched {
   border: 2px solid red;
   border-radius: 7px;
@@ -113,5 +117,7 @@ a {
 .single-items {
   width: 100%;
 }
-
+.total h3 {
+margin: auto;
+padding: 0 0px 0 10px;}
 }
